@@ -25,6 +25,7 @@ The following tables show the least privileged permission or permissions require
 
 ### To update the profile photo of a contact
 
+<!-- { "blockType": "ignored" } -->
 |Permission type      | Least privileged permissions             | Higher privileged permissions             |
 |:--------------------|:-----------------------------------------|:------------------------------------------|
 |Delegated (work or school account)      |   Contacts.ReadWrite           | Not supported. |

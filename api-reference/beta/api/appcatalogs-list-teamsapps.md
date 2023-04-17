@@ -23,6 +23,7 @@ This includes apps from the Microsoft Teams store, as well as apps from your org
 
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
 
+<!-- { "blockType": "ignored" } -->
 | Permission Type                        | Permissions (from least to most privileged) |
 |:---------------------------------------|:------------------------------------|
 | Delegated (work or school account)     | AppCatalog.Submit, AppCatalog.Read.All, AppCatalog.ReadWrite.All, Directory.Read.All<sup>1</sup>, Directory.ReadWrite.All<sup>1</sup> |

@@ -19,6 +19,7 @@ Get the metadata for the location where the files of a [channel](../resources/ch
 ## Permissions
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
 
+<!-- { "blockType": "ignored" } -->
 |Permission type      | Permissions (from least to most privileged)              |
 |:--------------------|:---------------------------------------------------------|
 |Delegated (work or school account) | Files.Read.All, Files.ReadWrite.All, Group.Read.All**, Group.ReadWrite.All** |

@@ -17,6 +17,7 @@ Create [call](../resources/call.md) enables your bot to create a new outgoing pe
 
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/microsoftteams/platform/concepts/calls-and-meetings/registering-calling-bot#add-microsoft-graph-permissions).
 
+<!-- { "blockType": "ignored" } -->
 | Permission type                        | Permissions (from least to most privileged)                                             |
 |:---------------------------------------|:----------------------------------------------------------------------------------------|
 | Delegated (work or school account)     | Not supported.                                                                          |

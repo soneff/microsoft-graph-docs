@@ -20,6 +20,7 @@ This method lists only the replies of the specified message, if any. To get the 
 ## Permissions
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
 
+<!-- { "blockType": "ignored" } -->
 |Permission Type|Permissions (from least to most privileged)|
 |---------|-------------|
 |Delegated (work or school account)| ChannelMessage.Read.All |

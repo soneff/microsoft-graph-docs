@@ -19,6 +19,7 @@ One of the following permissions is required to call this API. To learn more, in
 
 The following permissions are for getting the operation on a chat:
 
+<!-- { "blockType": "ignored" } -->
 | Permission type                        | Permissions (from least to most privileged)|
 | :------------------------------------- | :--------------------------------------------------- |
 | Delegated (work or school account)     | Chat.ReadBasic, Chat.Read, Chat.ReadWrite|

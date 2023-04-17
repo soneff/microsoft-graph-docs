@@ -20,6 +20,7 @@ Retrieve the Microsoft 365 **group** that corresponds to this **educationClass**
 ## Permissions
 A combination of permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
 
+<!-- { "blockType": "ignored" } -->
 |Permission type      | Permissions (from least to most privileged)              |
 |:--------------------|:---------------------------------------------------------|
 |Delegated (work or school account) |  One from EduRoster.ReadBasic, EduRoster.Read, EduRoster.Write plus Directory.Read.All|

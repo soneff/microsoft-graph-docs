@@ -17,6 +17,7 @@ Retrieve the list of [chatMessageHostedContent](../resources/chatmessagehostedco
 
 ### Permissions for channel
 
+<!-- { "blockType": "ignored" } -->
 | Permission type                        | Permissions (from least to most privileged) |
 |:---------------------------------------|:--------------------------------------------|
 |Delegated (work or school account)| ChannelMessage.Read.All |

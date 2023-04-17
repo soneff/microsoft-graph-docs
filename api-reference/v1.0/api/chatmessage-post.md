@@ -22,6 +22,7 @@ Send a new [chatMessage](../resources/chatmessage.md) in the specified [channel]
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
 
 ### Permissions for channel
+<!-- { "blockType": "ignored" } -->
 | Permission type                        | Permissions (from least to most privileged) |
 |:---------------------------------------|:--------------------------------------------|
 | Delegated (work or school account)     | ChannelMessage.Send, Group.ReadWrite.All** |

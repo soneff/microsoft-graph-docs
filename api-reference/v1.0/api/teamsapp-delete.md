@@ -24,6 +24,7 @@ One of the following permissions is required to call this API. To learn more, in
 
 >**Note:** Only global administrators can call this API.
 
+<!-- { "blockType": "ignored" } -->
 | Permission Type                        | Permissions (from least to most privileged)|
 |:----------------------------------     |:-------------|
 | Delegated (work or school account) | AppCatalog.Submit, AppCatalog.ReadWrite.All, Directory.ReadWrite.All** |

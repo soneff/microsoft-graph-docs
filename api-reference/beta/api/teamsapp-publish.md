@@ -23,6 +23,7 @@ The **requiresReview** property allows any user to submit an app for review by a
 
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
 
+<!-- { "blockType": "ignored" } -->
 | Permission Type                        | Permissions (from least to most privileged)|
 |:----------------------------------     |:-------------|
 | Delegated (work or school account) | AppCatalog.Submit, AppCatalog.ReadWrite.All, Directory.ReadWrite.All** |
